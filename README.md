@@ -23,7 +23,7 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,c,cpp,ts,nodejs,html,css,js,github,docker,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=py,c,cpp,nodejs,html,css,js,github,docker,vscode,linux" />
 </p>
 
 <hr>
