@@ -1,4 +1,2 @@
-<div align="center"> 
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/github.com/aciezadl/count.svg" alt="Visitor's Count" />
-</div>
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=aciezadl)
+
